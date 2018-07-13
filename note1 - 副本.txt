@@ -7,7 +7,8 @@ second time
 
 复习：2018/07/12
 
-保留4
+测试SVN的update： 在gitghub上添加了这行字段，看看在本地端执行update会不会出现git那样的报错，需要pull下来需改。
 修复了bug
 又修复了另一个bug
 又有bug
+
