@@ -12,5 +12,7 @@ second time
 又修复了另一个bug
 又有bug
 
+测试svn：这是svn1，第二次换这边后面提交。
+测试svn：这是svn1
 测试svn：这是svn2
 
