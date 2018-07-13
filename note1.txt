@@ -11,3 +11,5 @@ second time
 修复了bug
 又修复了另一个bug
 又有bug
+
+测试svn：这是svn1
